@@ -1,5 +1,5 @@
 # 120-Final
-This final project will show my audience of peers and instructor that I incorporate math programming and software to gain insight in analyzing music data through different comparisons.
+This final project will show my audience of peers and instructor that I incorporate math programming and software to gain insight in analyzing music data through different comparisons. Specifically, I am using Rihanna's music albums. By doing this, I will be analyzing across her albums, how sentiment changes, how stopwords impact them, and how the most occuring keywords play a role.
 
 
 import os
