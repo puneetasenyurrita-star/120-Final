@@ -33,8 +33,8 @@ print(f"Current working directory: {os.getcwd()}")
 from google.colab import drive
 drive.mount('/content/drive')
 
-import pandas as pd
 ## Load the CSV file directly into a pandas data frame and read the data
+import pandas as pd
 df_chat = pd.read_csv('/content/drive/MyDrive/120-Final/Rihanna.csv')
 df_chat.head()
 
