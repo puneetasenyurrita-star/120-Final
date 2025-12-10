@@ -1,5 +1,5 @@
 # Puneeta's 120-Final
-This final project will show my audience of peers and instructor that I incorporate math programming and software to gain insight in analyzing music data through different comparisons. Specifically, I am using Rihanna's music albums. By doing this, I will be analyzing across her albums, how sentiment changes, how stopwords impact them, and how the most occuring keywords play a role.
+SUMMARY: This final project will show my audience of peers and instructor that I incorporate math programming and software to gain insight in analyzing music data through different comparisons. Specifically, I am using Rihanna's music albums. By doing this, I will be analyzing across her albums, how sentiment changes, how stopwords impact them, and how the most occuring keywords play a role.
 
 # Instructions to run notebook below (Tenative till Final Draft is submitted)
 
