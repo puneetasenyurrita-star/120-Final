@@ -1,8 +1,7 @@
 # Puneeta's 120-Final
 
 # Instructions to run notebook below
-run all cells in notebook sequentially one by one and follow along if having issues then downloaad and then upload the csv file which is the data
-Folder Structure has my Music Folder which includes the music data of Rihanna's albums, my Colab notebook along with the README.md
+run all cells in notebook sequentially one by one and follow along if having issues then downloaad and then upload the csv file which is the data. Also, Folder Structure has my Music Folder which includes the music data of Rihanna's albums, my Colab notebook along with the README.md
 
 # Written Report
 1. Introduction: 
